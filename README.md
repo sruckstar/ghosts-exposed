@@ -17,4 +17,4 @@ The mini-game can be run from 2am to 4am. On the map, the start of the mission i
 3. Move all files from the archive to the scripts folder (if it does not exist, create it).
 
 # Join my Discord server
-Fresh news about upcoming releases, personalized help on the use of my mods for GTA are waiting for you on the server.
+Fresh news about upcoming releases, personalized help on the use of my mods for GTA are waiting for you on the server: https://discord.gg/vvxmKP5y5J
